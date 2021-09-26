@@ -12,6 +12,6 @@ async def start(_, m: Message):
                       [[
                             InlineKeyboardButton(
                                   f'{emoji.STAR} Source {emoji.STAR}',
-                                  url='https://t.me/ING_BOT_UPDATE')
+                                  url='https://t.me/KING_BOT_UPDATE')
                         ]]
                   ))
